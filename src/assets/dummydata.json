@@ -1,0 +1,42 @@
+{
+	"status": "SUCCESS",
+	"statusCode": 200,
+	"message": "USER_LIST_COUNT_FETCHED_SUCCESSFULLY",
+	"data": {
+		"dummyData":[{
+			"name": "Sew Joen",
+			"email": "sew@gmail.com",
+			"gender": "Male",
+			"address": "92 ,hartway street",
+			"dob": "05/04/1990"
+		},
+		{
+			"name": "Jon Jay",
+			"email": "jon@gmail.com",
+			"gender": "Male",
+			"address": "92 plaza lane",
+			"dob": "05/04/1995"
+		},
+		{
+			"name": "Abi Caul",
+			"email": "abi@gmail.com",
+			"gender": "Female",
+			"address": "92 plaza lane",
+			"dob": "05/04/1990"
+		},
+		{
+			"name": "Ews Pardon",
+			"email": "ews@gmail.com",
+			"gender": "Male",
+			"address": "92 plaza lane",
+			"dob": "15/04/1980"
+		},
+		{
+			"name": "Niki Lohia",
+			"email": "niki@gmail.com",
+			"gender": "Female",
+			"address": "92 plaza lane",
+			"dob": "05/04/1998"
+		}]
+	}
+}
